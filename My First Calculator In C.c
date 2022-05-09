@@ -11,6 +11,7 @@ void subtraction();
 void multiplication();
 void division();
 void display();
+void Hello();//hi Abu Naiim
 
 int main()
 {
